@@ -31,7 +31,15 @@ WhatsApp(?) - Google Form(?)
 - do you have an events calendar?
   - ???
 
-## other organisations
+## other organisations with similar values
+
+a non-exhaustive list
+
+### in Sheffield:
+
+- https://www.alt-sheff.org/
+
+### other tenants unions
 
 - Manchester Tenants Union: <https://tenantsunion.org.uk/>
 - https://londonrentersunion.org/
