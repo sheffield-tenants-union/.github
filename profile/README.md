@@ -14,6 +14,23 @@ STU website
 
 WhatsApp(?) - Google Form(?)
 
+## faq
+
+- what do you do?
+  - ???
+- how do I join?
+  - ???
+- how do I get involved?
+  - ???
+- who is in charge?
+  - ???
+- when do you meet?
+  - ???
+- can I join a mailing list?
+  - ???
+- do you have an events calendar?
+  - ???
+
 ## other organisations
 
 - Manchester Tenants Union: <https://tenantsunion.org.uk/>
