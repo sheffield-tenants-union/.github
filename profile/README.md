@@ -12,7 +12,7 @@ website(?)
 
 [STU linktree](https://linktr.ee/sheffieldtenantsunion) - [STU Instagram](https://www.instagram.com/sheffieldtenantsunion/) - STU Facebook(?) - [STU Twitter](https://linktr.ee/sheffieldtenantsunion)
 
-WhatsApp(?) - Google Form(?)
+WhatsApp(?) - [Google sign-up Form](https://forms.gle/5bgr41FsVpiP1bFE8)
 
 ## faq
 
