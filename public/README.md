@@ -1,3 +1,0 @@
-# Sheffield Tenants' Union
-
-stuff to go here...
