@@ -10,9 +10,9 @@ STU website
 
 [STU website source](https://github.com/Sheffield-TU/website)
 
-[STU linktree](https://linktr.ee/sheffieldtenantsunion) - [STU Instagram](https://www.instagram.com/sheffieldtenantsunion/) - STU Facebook - [STU Twitter](https://linktr.ee/sheffieldtenantsunion)
+[STU linktree](https://linktr.ee/sheffieldtenantsunion) - [STU Instagram](https://www.instagram.com/sheffieldtenantsunion/) - STU Facebook(?) - [STU Twitter](https://linktr.ee/sheffieldtenantsunion)
 
-WhatsApp - Google Form
+WhatsApp(?) - Google Form(?)
 
 ## other organisations
 
