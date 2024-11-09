@@ -2,7 +2,7 @@
 
 ## Links
 
-STU website
+website(?)
 
 [sheffieldtenantsunion@gmail.com](mailto:sheffieldtenantsunion@gmail.com)
 
