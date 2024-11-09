@@ -22,3 +22,18 @@ WhatsApp(?) - Google Form(?)
 - https://www.edinburghtenants.org.uk/
 - https://www.southliverpoolhomes.co.uk/about-us/more-about-us/our-commitments/together-with-tenants
 - https://www.instagram.com/nottsrentersunion/
+
+## branding
+
+fonts: ???
+
+colours ???
+
+images: ???
+
+logo: ???
+
+here is a very low quality logo
+
+![stu logo](https://github.com/user-attachments/assets/c658abc4-31c3-41c7-b642-b79c3599c0f9)
+
